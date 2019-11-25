@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.f1047453.chunk.js",
+    "main.js.map": "/static/js/main.f1047453.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a542d388.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a542d388.js.map",
+    "static/css/2.44d09fed.chunk.css": "/static/css/2.44d09fed.chunk.css",
+    "static/js/2.27f99ee0.chunk.js": "/static/js/2.27f99ee0.chunk.js",
+    "static/js/2.27f99ee0.chunk.js.map": "/static/js/2.27f99ee0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.77e3391546b31ea5c5a32491fdf4142b.js": "/precache-manifest.77e3391546b31ea5c5a32491fdf4142b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.44d09fed.chunk.css.map": "/static/css/2.44d09fed.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/204.svg": "/static/media/204.0f14f256.svg",
+    "static/media/COMPUTATIONAL_BIOLOGY.svg": "/static/media/COMPUTATIONAL_BIOLOGY.2316b813.svg",
+    "static/media/EpiClockR_Logo.png": "/static/media/EpiClockR_Logo.23f5d942.png",
+    "static/media/GENE_FINDING.svg": "/static/media/GENE_FINDING.a1a3b0e1.svg",
+    "static/media/Result_Title.md": "/static/media/Result_Title.765e6292.md",
+    "static/media/Upload_CheckFile.md": "/static/media/Upload_CheckFile.d57e2eec.md",
+    "static/media/Upload_Email.md": "/static/media/Upload_Email.ccce2fe3.md",
+    "static/media/Upload_File.md": "/static/media/Upload_File.0ce338d3.md",
+    "static/media/blog-post.1.md": "/static/media/blog-post.1.026ee693.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a542d388.js",
+    "static/css/2.44d09fed.chunk.css",
+    "static/js/2.27f99ee0.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.f1047453.chunk.js"
+  ]
+}
